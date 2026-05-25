@@ -1,0 +1,12 @@
+# ===== Obsidian app/config/state =====
+.obsidian/
+
+# ===== Obsidian local trash =====
+.trash/
+
+# ===== OS-generated junk =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs/temp files =====
+*.log
