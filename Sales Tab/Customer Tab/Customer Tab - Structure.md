@@ -22,3 +22,5 @@ The Customers page takes inspiration from **Zoho Books**, but it is **not intend
 The goal is to adopt proven UX patterns while making deliberate design decisions that better suit the scope of this project. Features that provide genuine value to a basic-to-moderate accounting application will be kept, while enterprise-specific functionality that unnecessarily increases complexity will be omitted.
 
 The exact fields and functionality included in the customer creation form will be determined by evaluating the relevant Zoho Books customer creation screens and selecting only the features that meaningfully contribute to the application's goals.
+
+[[Customer Tab - Necessary and Unnecessary Features]]
