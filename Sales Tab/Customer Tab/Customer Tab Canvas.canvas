@@ -3,7 +3,7 @@
 		{"id":"04f0a614add5a1d5","type":"file","file":"Sales Tab/Customer Tab/Customer Tab - Structure.md","x":-1100,"y":-560,"width":400,"height":720,"color":"3"},
 		{"id":"09a022e6eace3592","type":"file","file":"Sales Tab/Customer Tab/Images/Zoho Books Customers Page Inspiration.png","x":-700,"y":-1200,"width":1461,"height":480},
 		{"id":"14121be6e16c7406","type":"file","file":"Sales Tab/Customer Tab/Customer Tab - Necessary and Unnecessary Features.md","x":761,"y":-560,"width":400,"height":720,"color":"5"},
-		{"id":"ec8e7bcb1c186a8e","x":-700,"y":320,"width":1461,"height":866,"type":"file","file":"Sales Tab/Customer Tab/Images/Zoho Books Customers Page Inspiration 2.png"}
+		{"id":"ec8e7bcb1c186a8e","type":"file","file":"Sales Tab/Customer Tab/Images/Zoho Books Customers Page Inspiration 2.png","x":-700,"y":320,"width":1460,"height":866}
 	],
 	"edges":[
 		{"id":"e74c3a7869c9187f","fromNode":"04f0a614add5a1d5","fromSide":"right","toNode":"14121be6e16c7406","toSide":"left"},
