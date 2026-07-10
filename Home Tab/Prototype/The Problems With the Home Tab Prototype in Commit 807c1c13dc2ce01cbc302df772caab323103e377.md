@@ -248,4 +248,3 @@ The remaining improvements are primarily related to:
 - Better distinction between operational information and trend analysis
 
 The goal is not to redesign the dashboard from scratch, but to refine its presentation so that every element immediately communicates its purpose.
-[[Bug 1]]

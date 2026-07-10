@@ -74,4 +74,5 @@ These are UI concerns rather than business rules.
 Move all dashboard business calculations into the backend (e.g. the summary endpoint) and return a fully populated `DashboardSummary`.
 
 The frontend should consume that object directly and remain focused solely on presentation.
-[[Bug 1]]
+[[The Problems With the Home Tab Prototype in Commit 807c1c13dc2ce01cbc302df772caab323103e377]]
+[[The Problems With the Home Tab Prototype 2 in Commit 9864b57cbcf501c4304595064ea05fe8918ec096]]
