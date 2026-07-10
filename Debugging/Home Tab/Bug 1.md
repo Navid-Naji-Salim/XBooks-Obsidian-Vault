@@ -74,3 +74,4 @@ These are UI concerns rather than business rules.
 Move all dashboard business calculations into the backend (e.g. the summary endpoint) and return a fully populated `DashboardSummary`.
 
 The frontend should consume that object directly and remain focused solely on presentation.
+[[Bug 1]]
